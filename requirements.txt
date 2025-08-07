@@ -1,0 +1,4 @@
+pycryptodome
+fake-useragent
+rich
+requests
